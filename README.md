@@ -2,9 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Real-Time+Applications+%7C+REST+APIs;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
