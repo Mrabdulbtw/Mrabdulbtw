@@ -2,25 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Real-Time+Applications+%7C+REST+APIs;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
-
-
----
-
-## 🚀 About Me
-
-I'm a **Full Stack Developer** passionate about building modern, scalable, secure, and high-performance web applications.
-
-* 💻 2+ years of professional development experience
-* ⚛️ Strong experience with **React.js & Next.js**
-* 🟢 Backend development with **Node.js & Express.js**
-* 🗄️ Experience with **MongoDB, MariaDB/MySQL, PostgreSQL & SQL Server**
-* 🔌 Experienced in **Socket.io and real-time applications**
-* 🎨 Passionate about clean UI/UX and responsive design
-* 🚀 Interested in scalable backend architecture and performance optimization
-* 🤖 Exploring **LangChain, LangGraph & AI-powered applications**
-* 🐳 Learning and working with **Docker & deployment**
-* 📍 Based in **Chennai, India**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -67,7 +48,22 @@ I'm a **Full Stack Developer** passionate about building modern, scalable, secur
 
 ---
 
+## 🚀 About Me
 
+I'm a **Full Stack Developer** passionate about building modern, scalable, secure, and high-performance web applications.
+
+* 💻 2+ years of professional development experience
+* ⚛️ Strong experience with **React.js & Next.js**
+* 🟢 Backend development with **Node.js & Express.js**
+* 🗄️ Experience with **MongoDB, MariaDB/MySQL, PostgreSQL & SQL Server**
+* 🔌 Experienced in **Socket.io and real-time applications**
+* 🎨 Passionate about clean UI/UX and responsive design
+* 🚀 Interested in scalable backend architecture and performance optimization
+* 🤖 Exploring **LangChain, LangGraph & AI-powered applications**
+* 🐳 Learning and working with **Docker & deployment**
+* 📍 Based in **Chennai, India**
+
+---
 
 ## 🎯 My Development Focus
 
@@ -94,20 +90,20 @@ I'm a **Full Stack Developer** passionate about building modern, scalable, secur
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://my-profile-jet-seven.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/abdulofficial">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:abdulofficialbtw@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_CHATBOT_URL">
-<img src="https://img.shields.io/badge/AI%20Chatbot-Try%20It-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<a href="https://chat-bot-ashy.vercel.app/">
+  <img src="https://img.shields.io/badge/AI%20Chatbot-Try%20It-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </a>
 
 </p>
@@ -121,7 +117,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable, secur
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:abdulofficialbtw@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Talk-✉️-36BCF7?style=for-the-badge" />
   </a>
 </p>
